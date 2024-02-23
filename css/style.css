@@ -1,0 +1,57 @@
+* {
+  margin: 0 auto;
+}
+
+body {
+  background-color: #fff  ;
+  color: #000;
+  font-family: "Protest Revolution" 
+}
+
+div {
+  text-align: center  ;
+  
+}
+
+.borda {
+  border: 1px solid #ccc;
+  width: 100%;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 16px;
+ 
+}
+
+.esquerda {
+   text-align: left;
+}
+
+.direita {
+   text-align: right;
+}
+
+main {
+  display: flex;
+}
+
+img {
+  width: 288px;
+  height: 175px;
+}
+
+label, input, button   {
+  display: block;
+}
+
+label {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+input {
+  width: 597px;
+  height: 78px;
+  font-size: 2rem;
+  border-radius: 16px;
+  border: 1px solid #ccc
+}
