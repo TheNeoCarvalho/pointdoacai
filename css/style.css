@@ -55,3 +55,14 @@ input {
   border-radius: 16px;
   border: 1px solid #ccc
 }
+
+button {
+  font-family: "Protest Revolution" ;
+  background-color: #83248C;
+  color: #fff;
+  width: 597px;
+  height: 78px;
+  border-radius: 16px;
+  margin-top: 10px;
+  font-size: 2rem;
+}
